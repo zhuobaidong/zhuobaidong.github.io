@@ -11,6 +11,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 Remote Sensing (Q1);
 International Journal of Digital Earth (Q1);
 IEEE Internet of Things Journal (Q1);
-Computer Science Review (Q1).
+Computer Science Review (Q1);
+Image and Vision Computing (Q1).
 
 - Teaching Assistant: [EE4309](https://nusmods.com/courses/EE4309/robot-perception) Robot Perception; [EE6733](https://nusmods.com/courses/EE6733/advanced-topics-on-vision-and-machine-learning) Advanced Topics on Vision and Machine Learning.
