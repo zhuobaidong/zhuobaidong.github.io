@@ -20,6 +20,13 @@
       {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
+      {% if author.zhihu %}
+        <li>
+          <a href="{{ author.zhihu }}" target="_blank">
+            <i class="fab fa-zhihu" style="color: #0084ff;"></i> Zhihu
+          </a>
+        </li>
+      {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
