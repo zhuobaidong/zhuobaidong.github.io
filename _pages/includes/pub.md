@@ -5,22 +5,19 @@
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-# Selected Publications
+# Publications
 
-Check out full publication list at my <a href='https://scholar.google.com/citations?user=wYs7vogAAAAJ'>Google Scholar profile</a>.
 
 [//]: # (Check out full publication list at my Google Scholar profile: <a href='https://scholar.google.com/citations?user=wYs7vogAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.)
-
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><a href="images/EvolveDirector.png"><img src='images/DoraCycle_teaser.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b>DoraCycle: Domain-Oriented Adaptation of Unified Generative Model in Multimodal Cycles</b><br>
-<i>The IEEE Conference on Computer Vision and Pattern Recognition, 2025</i><br>
-<b>Rui Zhao</b>, Weijia Mao, Mike Zheng Shou.<br>
-[<a href="https://arxiv.org/abs/2503.03651">arXiv</a>]
-[[Github ![](https://img.shields.io/github/stars/showlab/DoraCycle?style=social)](https://github.com/showlab/DoraCycle)]<br>
+<b>Seeing is Not Reasoning: MVPBench for Graph-based Evaluation of Multi-path Visual Physical CoT</b><br>
+<i>Submitted to The Fourteenth International Conference on Learning Representations, 2026</i><br>
+<b>Zhuobai Dong</b>, Junchao Yi, Ziyuan Zheng, Haochen Han, Xiangxi Zheng, Alex Jinpeng Wang, Fangming Liu, Linjie Li.<br>
+[<a href="https://arxiv.org/abs/2505.24182">arXiv</a>]
+[[Github ![](https://img.shields.io/github/stars/showlab/DoraCycle?style=social)](https://github.com/CSU-JPG/MVPBench)]<br>
 <div style="text-align: justify">
   
 </div>
