@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Rui Zhao @ NUS"
+title                    : "Zhuobai"
 description              :
 repository               : "ruizhaocv/ruizhaocv.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,10 +24,10 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Rui Zhao"
-  name_cn          : "赵睿"
+  name             : "Zhuobai Dong"
+  name_cn          : ""
   avatar           : "images/photo.jpg"
-  bio              : "Ph.D. student at NUS."
+  bio              : "Graguate student at WHU."
   location         :
   employer         :
   pubmed           : 
