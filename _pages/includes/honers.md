@@ -1,7 +1,6 @@
 
 # Selected Honors
-- *2024* Show Lab Annual Award ($3000)
-- *2022* The Distinguished Graduates of Beijing (Top 1%)
-- *2021* National Scholarship, Ministry of Education of China (Top 1%)
-- *2019* The Distinguished Graduates of Beijing (Top 1%)
+- *2025* National Invention Patent, “An Estimation Method for Urban Street Tree Carbon Storage at the Individual Tree Level”
+- *2024* First-Class Scholarship, Central South University (Top 2%)
+- *2024* National Grand Prize, National College Students Mapping Innovation and Entrepreneurship Competition – Scientific Paper Track (Top 1%)
 - ...
