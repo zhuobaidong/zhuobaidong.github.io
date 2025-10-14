@@ -28,7 +28,7 @@ author:
   name_cn          : 
   avatar           : "images/photo_zhuobai.jpg"
   bio              : "Master’s student at WHU"
-  location         :
+  location         :  "WuHan"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -61,7 +61,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  zhihu            : "https://www.zhihu.com/people/lone-ranger-75-1"
 
 # Reading Files
 include:
