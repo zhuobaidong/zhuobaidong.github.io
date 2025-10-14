@@ -25,13 +25,13 @@ baidu_site_verification  : code-ZxFK3f4pfb
 # Site Author
 author:
   name             : "Zhuobai Dong"
-  name_cn          : ""
+  name_cn          : 
   avatar           : "images/photo_zhuobai.jpg"
   bio              : "Master’s student at WHU"
   location         :
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=wYs7vogAAAAJ"
+  googlescholar    : 
   email            : "zhuobai@whu.edu.cn"
   researchgate     :
   uri              :
@@ -47,7 +47,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "rui-zhao-a46251296"
+  linkedin         : 
   dblp             :
   orcid            :
   pinterest        :
@@ -55,7 +55,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "ruizhaocv"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
