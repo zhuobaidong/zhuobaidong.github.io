@@ -21,9 +21,12 @@
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
       {% if author.zhihu %}
-        <li>
-          <a href="{{ author.zhihu }}" target="_blank">
-            <i class="fab fa-zhihu" style="color: #0084ff;"></i> Zhihu
+        <li style="display: flex; align-items: center;">
+          <a href="{{ author.zhihu }}" target="_blank" style="display: inline-flex; align-items: center; gap: 4px; text-decoration: none;">
+            <i class="fab fa-zhihu" 
+               style="background-color: #0084ff; color: white; border-radius: 4px; padding: 4px; font-size: 14px; line-height: 1; display: inline-block;">
+            </i>
+            <span>Zhihu</span>
           </a>
         </li>
       {% endif %}
