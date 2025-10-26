@@ -14,7 +14,7 @@
 <div class='paper-box-text' markdown="1">
 
 <b>Seeing is Not Reasoning: MVPBench for Graph-based Evaluation of Multi-path Visual Physical CoT</b><br>
-# <i>Submitted to The Fourteenth International Conference on Learning Representations, 2026</i><br>
+<!-- Submitted to The Fourteenth International Conference on Learning Representations, 2026 -->
 <b>Zhuobai Dong</b>, Junchao Yi, Ziyuan Zheng, Haochen Han, Xiangxi Zheng, Alex Jinpeng Wang, Fangming Liu, Linjie Li.<br>
 [<a href="https://arxiv.org/abs/2505.24182">arXiv</a>][<a href="https://huggingface.co/datasets/CSU-JPG/MVPBench">Hugging Face</a>][<a href="https://github.com/CSU-JPG/MVPBench">Github</a>]
 <div style="text-align: justify">
@@ -42,7 +42,7 @@
 <div class='paper-box-text' markdown="1">
 
 <b>TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation</b><br>
-# <i>Submitted to The Fourteenth International Conference on Learning Representations, 2026</i><br>
+<!-- <i>Submitted to The Fourteenth International Conference on Learning Representations, 2026</i><br> -->
 Alex Jinpeng Wang, Dongxing Mao, Jiawei Zhang, Weiming Han, <b>Zhuobai Dong</b>, Linjie Li, Yiqi Lin, Zhengyuan Yang, Libo Qin, Fuwei Zhang, Lijuan Wang, Min Li<br>
 [<a href="https://arxiv.org/abs/2502.07870">arXiv</a>][<a href="https://huggingface.co/datasets/CSU-JPG/TextAtlas5M">Hugging Face</a>][<a href="https://github.com/CSU-JPG/TextAtlas">Github</a>]
   
