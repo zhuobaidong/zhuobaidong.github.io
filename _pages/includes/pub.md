@@ -10,13 +10,26 @@
 
 [//]: # (Check out full publication list at my Google Scholar profile: <a href='https://scholar.google.com/citations?user=wYs7vogAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Contranst.png"><img src='images/Contranst.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+<b>Glance: Accelerating Diffusion Models with 1 Sample</b><br>
+<!-- Submitted to The Fourteenth International Conference on Learning Representations, 2026 -->
+<b>Zhuobai Dong</b>, Rui Zhao, Songjie Wu, Junchao Yi, Linjie Li, Zhengyuan Yang, Lijuan Wang, Alex Jinpeng Wang<br>
+[<a href="https://arxiv.org/abs/2505.24182">arXiv</a>][<a href="https://huggingface.co/datasets/CSU-JPG/MVPBench">Hugging Face</a>][<a href="https://github.com/CSU-JPG/MVPBench">Github</a>]
+<div style="text-align: justify">
+  
+</div>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/MVPBench.png"><img src='images/MVPBench.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Seeing is Not Reasoning: MVPBench for Graph-based Evaluation of Multi-path Visual Physical CoT</b><br>
 <!-- Submitted to The Fourteenth International Conference on Learning Representations, 2026 -->
 <b>Zhuobai Dong</b>, Junchao Yi, Ziyuan Zheng, Haochen Han, Xiangxi Zheng, Alex Jinpeng Wang, Fangming Liu, Linjie Li.<br>
-[<a href="https://arxiv.org/abs/2505.24182">arXiv</a>][<a href="https://huggingface.co/datasets/CSU-JPG/MVPBench">Hugging Face</a>][<a href="https://github.com/CSU-JPG/MVPBench">Github</a>]
+[<a href="https://arxiv.org/abs/2512.02899">arXiv</a>][<a href="https://huggingface.co/CSU-JPG/Glance">Model</a>][<a href="https://github.com/CSU-JPG/Glance">Github</a>]
 <div style="text-align: justify">
   
 </div>
