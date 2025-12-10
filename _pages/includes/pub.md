@@ -16,7 +16,7 @@
 <b>Glance: Accelerating Diffusion Models with 1 Sample</b><br>
 <!-- Submitted to The Fourteenth International Conference on Learning Representations, 2026 -->
 <b>Zhuobai Dong</b>, Rui Zhao, Songjie Wu, Junchao Yi, Linjie Li, Zhengyuan Yang, Lijuan Wang, Alex Jinpeng Wang<br>
-[<a href="https://arxiv.org/abs/2505.24182">arXiv</a>][<a href="https://huggingface.co/datasets/CSU-JPG/MVPBench">Hugging Face</a>][<a href="https://github.com/CSU-JPG/MVPBench">Github</a>]
+[<a href="https://arxiv.org/abs/2505.24182">ArXiv</a>][<a href="https://huggingface.co/CSU-JPG/Glance">Model</a>][<a href="https://github.com/CSU-JPG/MVPBench">Github</a>]
 <div style="text-align: justify">
   
 </div>
@@ -29,7 +29,7 @@
 <b>Seeing is Not Reasoning: MVPBench for Graph-based Evaluation of Multi-path Visual Physical CoT</b><br>
 <!-- Submitted to The Fourteenth International Conference on Learning Representations, 2026 -->
 <b>Zhuobai Dong</b>, Junchao Yi, Ziyuan Zheng, Haochen Han, Xiangxi Zheng, Alex Jinpeng Wang, Fangming Liu, Linjie Li.<br>
-[<a href="https://arxiv.org/abs/2512.02899">arXiv</a>][<a href="https://huggingface.co/CSU-JPG/Glance">Model</a>][<a href="https://github.com/CSU-JPG/Glance">Github</a>]
+[<a href="https://arxiv.org/abs/2512.02899">ArXiv</a>][<a href="https://huggingface.co/datasets/CSU-JPG/MVPBench">Datasets</a>][<a href="https://github.com/CSU-JPG/Glance">Github</a>]
 <div style="text-align: justify">
   
 </div>
@@ -43,7 +43,7 @@
 <b>Locating and profiling city street trees using Baidu street view images for carbon storage evaluation</b><br>
 <i>Ecological Informatics(Elsevier), 2025.</i><br>
 <b>Zhuobai Dong</b>, Yingcai Su, Yuru Zhang, Lifang Wang, Shujun Yuan, Baoyi Zhang<br>
-[<a href="https://doi.org/10.1016/j.ecoinf.2025.103394">paper</a>][<a href="https://github.com/Geo3D-AI-CSU/STV-MNet">Github</a>]
+[<a href="https://doi.org/10.1016/j.ecoinf.2025.103394">Paper</a>][<a href="https://github.com/Geo3D-AI-CSU/STV-MNet">Github</a>]
 <div style="text-align: justify">
   
 </div>
