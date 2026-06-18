@@ -1,6 +1,8 @@
-Research Intern, CSU-JPG Lab | Jan. 2025 – Present
-Advisor: Prof. Wang
-Worked closely with Ph.D. student Zhao at SHOW Lab since Jun. 2025.
+**Research Intern**, **CSU-JPG Lab**  
+*Jan. 2025 – Present*  
+**Advisor:** Prof. Alex Jinpeng Wang
+Worked closely with Ph.D. student Rui Zhao at **Show Lab** since Jun. 2025.
 
-Research Intern, EPIC | Mar. 2026 – Present
-Advisor: Prof. Zhang
+**Research Intern**, **EPIC Lab**  
+*Mar. 2026 – Present*  
+**Advisor:** Prof. LinFeng Zhang
