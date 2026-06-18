@@ -1,4 +1,4 @@
-# Research Experience
+# Experience
 Research Intern, CSU-JPG Lab, Central South University  
 *Jan. 2025 – Present*  
 Advisor: Prof. [Alex Jinpeng Wang](https://fingerrec.github.io/)<br>
