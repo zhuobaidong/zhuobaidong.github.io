@@ -37,7 +37,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecol. Inf</div><a href="images/stv.png"><img src='images/stv.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecol. Inf 2025</div><a href="images/stv.png"><img src='images/stv.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Locating and profiling city street trees using Baidu street view images for carbon storage evaluation</b><br>
