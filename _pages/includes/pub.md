@@ -14,7 +14,7 @@
 <div class='paper-box-text' markdown="1">
 
 <b>Glance: Accelerating Diffusion Models with 1 Sample</b><br>
-<!-- Submitted to The Fourteenth International Conference on Learning Representations, 2026 -->
+The 19th European Conference on Computer Vision, 2026
 <b>Zhuobai Dong</b>, Rui Zhao, Songjie Wu, Junchao Yi, Linjie Li, Zhengyuan Yang, Lijuan Wang, Alex Jinpeng Wang<br>
 [<a href="https://arxiv.org/abs/2512.02899">ArXiv</a>][<a href="https://huggingface.co/CSU-JPG/Glance">Model</a>][<a href="https://github.com/CSU-JPG/Glance">Github</a>]
 <div style="text-align: justify">
@@ -55,7 +55,7 @@
 <div class='paper-box-text' markdown="1">
 
 <b>TextAtlas5M: A Large-scale Dataset for Dense Text Image Generation</b><br>
-<!-- <i>Submitted to The Fourteenth International Conference on Learning Representations, 2026</i><br> -->
+Forty-Third International Conference on Machine Learning, 2026
 Alex Jinpeng Wang, Dongxing Mao, Jiawei Zhang, Weiming Han, <b>Zhuobai Dong</b>, Linjie Li, Yiqi Lin, Zhengyuan Yang, Libo Qin, Fuwei Zhang, Lijuan Wang, Min Li<br>
 [<a href="https://arxiv.org/abs/2502.07870">ArXiv</a>][<a href="https://huggingface.co/datasets/CSU-JPG/TextAtlas5M">Hugging Face</a>][<a href="https://github.com/CSU-JPG/TextAtlas">Github</a>]
   
