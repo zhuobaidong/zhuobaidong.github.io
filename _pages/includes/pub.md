@@ -10,7 +10,7 @@
 
 [//]: # (Check out full publication list at my Google Scholar profile: <a href='https://scholar.google.com/citations?user=wYs7vogAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><a href="images/Contranst.png"><img src='images/Contranst.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Contranst.png"><img src='images/glance_forcing.jpg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>Glance Forcing: Making Bidirectional Diffusion Autoregressive at a Glance</b><br>
@@ -23,7 +23,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><a href="images/Contranst.png"><img src='images/Contranst.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="images/Contranst.png"><img src='images/streamerase.jpg' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 <b>StreamErase: Towards Ultra-Fast Streaming Video Erasing</b><br>
