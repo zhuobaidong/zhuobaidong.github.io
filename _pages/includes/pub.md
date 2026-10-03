@@ -36,16 +36,24 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><a href="images/Contranst.png"><img src='images/Contranst.png' alt="sym" width="80%"></a></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><a href="images/Contranst.png"><img src='images/Contranst.png' alt="sym" width="80%"></a></div></div> -->
+<div class='paper-box'>
+  <!-- 1. 在 paper-box-image 上添加居中样式 -->
+  <div class='paper-box-image' style="display: flex; justify-content: center; align-items: center; text-align: center; width: 100%;">
+    <div>
+      <div class="badge">ECCV 2026</div>
+      <a href="images/Contranst.png"><img src='images/Contranst.png' alt="sym" width="80%"></a>
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
 <b>Glance: Accelerating Diffusion Models with 1 Sample</b><br>
 <i>The 19th European Conference on Computer Vision, 2026.</i><br>
 <b>Zhuobai Dong</b>, Rui Zhao, Songjie Wu, Junchao Yi, Linjie Li, Zhengyuan Yang, Lijuan Wang, Alex Jinpeng Wang<br>
 [<a href="https://arxiv.org/abs/2512.02899">ArXiv</a>][<a href="https://huggingface.co/CSU-JPG/Glance">Model</a>][<a href="https://github.com/CSU-JPG/Glance">Github</a>]
-<div style="text-align: justify">
+<!-- <div style="text-align: justify"> -->
 
-</div>
+<!-- </div> -->
 </div>
 </div>
 
