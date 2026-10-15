@@ -16,7 +16,7 @@
 <b>Glance Forcing: Making Bidirectional Diffusion Autoregressive at a Glance</b><br>
 <!-- <i>The 19th European Conference on Computer Vision, 2026.</i><br> -->
 <b>Zhuobai Dong</b>, Junchao Yi, Hu Jian Guo, Linjie Li, Alex Jinpeng Wang, Rui Zhao<br>
-[<a href="https://arxiv.org/abs/2512.02899">ArXiv</a>][<a href="https://huggingface.co/CSU-JPG/Glance">Model</a>][<a href="https://github.com/CSU-JPG/Glance">Github</a>]
+[<a href="https://arxiv.org/abs/2610.20220">ArXiv</a>][<a href="https://huggingface.co/CSU-JPG/Glance-Forcing">Model</a>][<a href="https://github.com/CSU-JPG/Glance-Forcing">Github</a>]
 <div style="text-align: justify">
 
 </div>
@@ -29,7 +29,7 @@
 <b>StreamErase: Towards Ultra-Fast Streaming Video Erasing</b><br>
 <!-- <i>The 19th European Conference on Computer Vision, 2026.</i><br> -->
 <b>Zhuobai Dong</b>, Xiaobing Tu, Xiantao Zhang, Jinkui Ren, Yinggui Wang, Yue Ma, Linfeng Zhang<br>
-[<a href="https://arxiv.org/abs/2512.02899">ArXiv</a>][<a href="https://huggingface.co/CSU-JPG/Glance">Model</a>][<a href="https://github.com/CSU-JPG/Glance">Github</a>]
+[<a href="https://arxiv.org/abs/2610.20137">ArXiv</a>][<a href="https://huggingface.co/zhuobai/StreamErase">Model</a>][<a href="https://github.com/zhuobaidong/StreamErase">Github</a>]
 <div style="text-align: justify">
 
 </div>
